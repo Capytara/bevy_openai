@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Enter <hytracen@gmail.com>"]
 keywords = ["bevy", "openai", "gpt"]
-description = "bevy_openai is an event-driven plugin for Bevy that provides **convenient** access to the OpenAI API."
+description = "bevy_openai is an event-driven plugin for Bevy that provides convenient access to the OpenAI API."
 readme = "README.md"
 
 [dependencies]

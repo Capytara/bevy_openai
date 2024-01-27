@@ -3,7 +3,7 @@
 
 Current features:
 
--[x] [ChatCompletion](https://platform.openai.com/docs/guides/text-generation/chat-completions-api)
+- [x] [ChatCompletion](https://platform.openai.com/docs/guides/text-generation/chat-completions-api)
 
 ## Installation
 

@@ -1,3 +1,4 @@
+[中文](https://github.com/hytracen/bevy_openai/blob/master/README_CN.md)
 # bevy_openai
 `bevy_openai` is an **event-driven** plugin for [Bevy](https://bevyengine.org) that provides **convenient** access to the [OpenAI API](https://beta.openai.com/docs/api-reference/introduction).
 

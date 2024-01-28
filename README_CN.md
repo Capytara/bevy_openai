@@ -4,7 +4,7 @@
 
 当前功能：
 
--[x] [ChatCompletion](https://platform.openai.com/docs/guides/text-generation/chat-completions-api)
+- [x] [ChatCompletion](https://platform.openai.com/docs/guides/text-generation/chat-completions-api)
 
 # 安装
 将crate添加为依赖：
